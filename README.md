@@ -9,3 +9,5 @@ Reflections:
 6/8: Today I learned about the basics of deep learning using Tensorflow. Fortunately, I already have experience using tensorflow, but it was a good review nonetheless. I particularly liked how we compared all of the different kinds of models, and well as different model architectures, in order to better understand it.
 
 6/12: Today I learned more about Tensorflow and worked with the different operations that one can do with tensors. I also explored the mnist dataset, and created a model that could classify the different pieces of items.
+
+6/13: Today I learned about the inner working behind a deep learning algorithm, namely the forward pass and backpropogation functions. The notebook walked through actually coding these functions, and it was very interesting to see a "homemade" MLP. 
