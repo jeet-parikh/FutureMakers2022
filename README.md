@@ -13,3 +13,5 @@ Reflections:
 7/13: Today I learned about the inner working behind a deep learning algorithm, namely the forward pass and backpropogation functions. The notebook walked through actually coding these functions, and it was very interesting to see a "homemade" MLP. 
 
 7/14: Today I learned about Convolution Neural Networks and their unique ability to extrapolate patterns from visual data. I saw various convolutional layers that could be used, and experimented with different pooling options.
+
+7/18: Today I learned about the different compenents of a CNN such as the convoltion layer, pooling layers, dropout and batch normalization layers. It was interesting to learn what purpose each of these layers serve.
