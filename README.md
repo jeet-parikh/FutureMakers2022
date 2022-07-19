@@ -15,3 +15,5 @@ Reflections:
 7/14: Today I learned about Convolution Neural Networks and their unique ability to extrapolate patterns from visual data. I saw various convolutional layers that could be used, and experimented with different pooling options.
 
 7/18: Today I learned about the different compenents of a CNN such as the convoltion layer, pooling layers, dropout and batch normalization layers. It was interesting to learn what purpose each of these layers serve.
+
+7/19: Today I learned about various loss functions and their different use cases. It was very interesting to actually code some of them and see them in action.
