@@ -19,3 +19,5 @@ Reflections:
 7/19: Today I learned about various loss functions and their different use cases. It was very interesting to actually code some of them and see them in action.
 
 7/20: Today I learned about the different activations functions and their purposes. We started with signmoid and then moved to relu and other variations. Fianlly, we wrote each of the functions and graphed them.
+
+7/21: Today I learned about ethics in AI and the different problems that our society faces. I was shocked to hear some of the stories, especially about the person with cerebral palsy who had her help stripped away. AI is certainly not perfect, but being aware of this problem is crucial to help prevent it.
