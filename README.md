@@ -25,3 +25,5 @@ Reflections:
 7/22: Today I created a CNN from scratch using tensorflow for the dog vs cat classification task.
 
 7/25: Today I created the reasons for underfitting and overfitting, and what we can do to prevent them. Sepcifically, we looked at decreasing model complixity with regularization and lower layer numbers, and we graphed their performance over 20 epochs.
+
+7/26: Today I learned about affective computing and explored a model that classiifed audio signals from male and female actors into various emotional categories. 
