@@ -27,3 +27,5 @@ Reflections:
 7/25: Today I created the reasons for underfitting and overfitting, and what we can do to prevent them. Sepcifically, we looked at decreasing model complixity with regularization and lower layer numbers, and we graphed their performance over 20 epochs.
 
 7/26: Today I learned about affective computing and explored a model that classiifed audio signals from male and female actors into various emotional categories. 
+
+7/27: Today I learned about autoencoders and how both the encoder and decoder work together to reconstruct an image. I was particularly interested by the decoder, which served a generator.
