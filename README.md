@@ -29,3 +29,5 @@ Reflections:
 7/26: Today I learned about affective computing and explored a model that classiifed audio signals from male and female actors into various emotional categories. 
 
 7/27: Today I learned about autoencoders and how both the encoder and decoder work together to reconstruct an image. I was particularly interested by the decoder, which served a generator.
+
+7/28: Today I learned about natural language processing, and all the steps required to make it work. I explored various types of language preprocessing, like tokenization, stemming, lemmatizers. I also learned about rnns and how they work. 
