@@ -31,3 +31,5 @@ Reflections:
 7/27: Today I learned about autoencoders and how both the encoder and decoder work together to reconstruct an image. I was particularly interested by the decoder, which served a generator.
 
 7/28: Today I learned about natural language processing, and all the steps required to make it work. I explored various types of language preprocessing, like tokenization, stemming, lemmatizers. I also learned about rnns and how they work. 
+
+7/29: Today I learned about computer vision applications, and I was most interested in our exploration into GANs and style transfer.
